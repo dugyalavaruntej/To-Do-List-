@@ -13,7 +13,7 @@ This is a simple To-Do List application built using HTML, CSS, and JavaScript. I
 
 ## Demo
 
-You can access the live version of the application here: [To-Do List Live Demo](YOUR_DEPLOYMENT_LINK_HERE)
+You can access the live version of the application here: [To-Do List Live Demo](https://dugyalavaruntej.github.io/To-Do-List-/)
 
 ## Getting Started
 
